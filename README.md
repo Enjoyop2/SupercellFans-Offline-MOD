@@ -25,6 +25,7 @@ Those who create mods:
 | BS | [11.112](https://www.mediafire.com/file/g6zo96etrdn3z3s/BetaBrawl.apk/file?dkey=kqyddkwowah&r=1980) | armeabi-v7a | Peterson | true | ![1](img/bs_v11.png) |
 | BS | [26.184](https://www.mediafire.com/file/jo2jldzbx0heis0/ClassicBrawl-Offline.signed.apk/file) | armeabi-v7a | Peterson | true | ![1](img/bs_v26.png) |
 | BS | [29.258](https://www.mediafire.com/file/8sqpv4d3iupl6pc/BrawlStars-v29-Offline.apk/file) | armeabi-v7a | Peterson | true | ![1](img/bs_v29.png) |
+| CQ | [0.441.143](https://drive.google.com/file/d/1H35DROoqS97FGrr6OK-YoiJE_pIgrpN4/view?usp=sharing) | arm64-v8a | Magich | true | ![1](img/cq_v0.441.png) |
 
 
 ## 📜 Legal & Disclaimer
