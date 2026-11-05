@@ -15,12 +15,15 @@ Those who create mods:
 
 [Peterson](https://github.com/PeterHackz)
 
+[russhty](https://github.com/8133)
+
 |Game|Version|Processor|Owner|UseFrida|İmage|
 | -- | -- | -- | -- | -- | -- |
 | BB | [16.24](https://www.mediafire.com/file/2503r9ns5cyjmv7/Boom+Beach+v16.24.apk/file) | armeabi-v7a | Magich | false | ![1](img/bb_v16.png) |
 | BB | [20.46](https://www.mediafire.com/file/a5iggddjqacgooj/Boom+Beach+v20.46.apk/file) | armeabi-v7a | MeteHun | false | ![1](img/bb_v20.png) |
 | CoC | [5.2.4](https://drive.google.com/file/d/14SkYm4vEp2Lsr3YKm3qjzoL7Mo4vSij2) | armeabi-v7a | Mr Vitalik & MeteHun | true | ![1](img/coc_v5.2.jpg) |
 | CoC | [7.1.1](https://drive.google.com/file/d/1--NJDWCxf5vwkO4bEW4N-k3guQrpTup1) | armeabi-v7a | MeteHun | false | ![1](img/coc_v7.jpg) |
+| CoC | [9.256.8]((https://www.mediafire.com/file/33t97ke9ev789tk/Clash.of.Clans.v9.256.8.offline.apk/file)) | armeabi-v7a | /8133 | true | ![1](img/coc_v7.jpg) |
 | CoC | [13.369.18](https://drive.google.com/file/d/1DYXvmCByB2biZ_9wkcLdY-SNuKdu8Ma4) | armeabi-v7a | Mr Vitalik | true | ![1](img/coc_v13.jpg) ![2](img/coc_v13_bb.jpg) |
 | BS | [11.112](https://www.mediafire.com/file/g6zo96etrdn3z3s/BetaBrawl.apk/file?dkey=kqyddkwowah&r=1980) | armeabi-v7a | Peterson | true | ![1](img/bs_v11.png) |
 | BS | [26.184](https://www.mediafire.com/file/jo2jldzbx0heis0/ClassicBrawl-Offline.signed.apk/file) | armeabi-v7a | Peterson | true | ![1](img/bs_v26.png) |
