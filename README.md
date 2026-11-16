@@ -19,6 +19,7 @@ Those who create mods:
 
 |Game|Version|Processor|Owner|UseFrida|İmage|
 | -- | -- | -- | -- | -- | -- |
+| HD | [1.19.88](https://www.mediafire.com/file/50x9c2ogto62gzq/Hay+Day+v1.19.88+OFF+MOD-1.apk/file) | armeabi-v7a | MeteHun | false | ![1](img/hd_v1.19.88.jpg) |
 | BB | [16.24](https://www.mediafire.com/file/2503r9ns5cyjmv7/Boom+Beach+v16.24.apk/file) | armeabi-v7a | Magich | false | ![1](img/bb_v16.png) |
 | BB | [20.46](https://www.mediafire.com/file/a5iggddjqacgooj/Boom+Beach+v20.46.apk/file) | armeabi-v7a | MeteHun | false | ![1](img/bb_v20.png) |
 | CoC | [5.2.4](https://drive.google.com/file/d/14SkYm4vEp2Lsr3YKm3qjzoL7Mo4vSij2) | armeabi-v7a | Mr Vitalik & MeteHun | true | ![1](img/coc_v5.2.jpg) |
